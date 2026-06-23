@@ -1,7 +1,7 @@
 #  🧪 Manual Testing Project 
 
 ## 📌 Project Overview
-This project is focused on **manual testing of an  application** similar to Flipkart.  
+This project is focused on **Manual Testing Project – E-Commerce Web Application** similar to Flipkart.  
 The main objective is to verify core functionalities and document test results in a structured format.
 
 
